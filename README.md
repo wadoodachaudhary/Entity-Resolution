@@ -2,7 +2,8 @@
 Entity Resolution, address matching for Four Square addresses with Locu using Random Forest Classifier in Python. 
 In this lab, we take two datasets that describe the same entities, and identify which entity in one dataset is the same as an entity in the other dataset. Our datasets were provided by Foursquare and Locu, and contain descriptive information about various venues such as venue names and phone numbers.
 
-![Alt text](/Entity_resolution/leaderboardScore.jpg?raw=true "Preciosn Recall, F1-score")
+
+![Screenshot](LeaderboardScore.jpg?raw=true "Preciosn Recall, F1-score")
 
 This project uses several files. 
 The data and matches for training in folder:
